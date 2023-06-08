@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aniket101003
-- 👀 I’m interested in basketball, trading, swimming
+- 👀 I’m interested in coding, web development, trading
 - 🌱 I’m currently learning ...computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...aniketmore1003@gmail.com
